@@ -1,0 +1,9 @@
+com\hellotod\rest\TodoConfig.class
+com\hellotodo\cdi\ScopesBean.class
+com\hellotodo\cdi\SessionScope.class
+com\hellotodo\entity\Todo.class
+com\hellotodo\cdi\Web.class
+com\hellotodo\cdi\DependentScope.class
+com\hellotodo\cdi\RequestScope.class
+com\hellotod\rest\TodoRest.class
+com\hellotodo\service\TodoService.class
